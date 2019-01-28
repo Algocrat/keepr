@@ -1,1 +1,1 @@
-This is an API to control servos
+Moveo control code using TB6600 with RPI.
